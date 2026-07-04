@@ -1,4 +1,4 @@
-### Hi, I'm Alexander Zhuk 👋
+### Hi, I'm Alexander Zhuk 
 
 Data-driven professional based in Seattle, WA, leveraging SQL, Python, and data visualization to optimize business processes, drive growth, and inform strategy. Currently pursuing an M.S. in Applied Data Science at the University of San Diego (expected August 2026).
 
@@ -6,7 +6,7 @@ I work at the intersection of finance, operations, and data science — building
 
 ---
 
-### 💼 What I Do
+###  What I Do
 
 - **Financial Solutions Representative II** @ First Tech Federal Credit Union — using data to optimize client acquisition, driving $25M in yearly deposit growth (9x target) and a 400% increase in high-value service adoption.
 - **Operations Analyst (Data & Business Analytics)** @ Central Jets — led jet charter database management, flight analytics, and marketing ROI reporting; improved lead-to-sale conversion by 20% through automated tracking.
@@ -14,7 +14,7 @@ I work at the intersection of finance, operations, and data science — building
 
 ---
 
-### 🚀 Featured Project
+###  Featured Project
 
 **[Weather Impact on Car Accidents](https://github.com/AZhuk30/WeatherImpactonCarAccidents)** — *Real-Time Weather Impact Assessment on NYC Traffic Safety*
 An automated ETL pipeline integrating NYC vehicle collision data with hourly weather data (Open-Meteo API) to analyze weather's effect on traffic safety. Runs daily via GitHub Actions, loads into MySQL, and surfaces insights through an interactive Streamlit dashboard.
@@ -36,7 +36,7 @@ An interactive demo of the pipeline is available as a deployed Streamlit applica
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Tools:** Python, R, SQL, Tableau, Power BI, Excel, GitHub
 **Data Science:** Data Cleaning, Predictive Modeling, Machine Learning, A/B Testing, Statistical Analysis
@@ -44,7 +44,7 @@ An interactive demo of the pipeline is available as a deployed Streamlit applica
 
 ---
 
-### 🎓 Education
+###  Education
 
 - **M.S. Applied Data Science** — University of San Diego (GPA 4.0) | 2024 – Expected Aug 2026
   *Coursework: Machine Learning, Predictive Modeling, Time Series Analysis, Data Engineering, Cloud Computing, LLMs for Data Science*
@@ -53,7 +53,7 @@ An interactive demo of the pipeline is available as a deployed Streamlit applica
 
 ---
 
-### 📫 Connect
+###  Connect
 
 - 📍 Seattle, WA
 - ✉️ azhuk@uw.edu
