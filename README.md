@@ -14,7 +14,7 @@ I work at the intersection of finance, operations, and data science and build au
 
 ---
 
-### Featured Project
+### Featured Projects
 
 **[Weather Impact on Car Accidents](https://github.com/AZhuk30/WeatherImpactonCarAccidents)** — *Real-Time Weather Impact Assessment on NYC Traffic Safety*
 An automated ETL pipeline integrating NYC vehicle collision data with hourly weather data (Open-Meteo API) to analyze weather's effect on traffic safety. Runs daily via GitHub Actions, loads into MySQL, and surfaces insights through an interactive Streamlit dashboard.
