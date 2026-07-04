@@ -22,14 +22,14 @@ An automated ETL pipeline integrating NYC vehicle collision data with hourly wea
 - Built with: Python, SQL, MySQL, GitHub Actions, Streamlit
 - Team: Alexander Zhuk, Gagandeep Singh, Stephanie Smith
 
-**Complaint Intelligence** *(capstone, in progress)*
+**[Complaint Intelligence](https://github.com/AZhuk30/ADS-599-Capstone-Project)** *(capstone, in progress)*
 LLM-powered early-warning system built on the CFPB Consumer Complaint Database, using RAG, Sentence-BERT, BERTopic, and Gemini to surface emerging complaint trends.
 - 🔗 Live app: [complaint-intelligence.streamlit.app](https://complaint-intelligence.streamlit.app)
 
-**GridSense AI**
+**[GridSense AI](https://github.com/AZhuk30/AWS-GridSenseAI)**
 XGBoost model predicting ERCOT grid stress events 24 hours in advance (AUC-ROC 0.986).
 
-**Drug Review Insights Tool**
+**[Drug Review Insights Tool](https://github.com/AZhuk30/DrugReviewInsightsSummarizationTool)**
 GenAI summarization tool built over 200K+ drug reviews (UCI dataset), deployed on Streamlit.
 An interactive demo of the pipeline is available as a deployed Streamlit application. The app allows users to search by drug or condition, view AI-generated patient experience summaries, explore dataset visualizations, and download the full pipeline report.
 - 🔗 Live demo: [ads509-group1-final.streamlit.app](https://ads509-group1-final.streamlit.app)
