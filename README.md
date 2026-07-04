@@ -2,7 +2,7 @@
 
 Data-driven professional based in Seattle, WA, leveraging SQL, Python, and data visualization to optimize business processes, drive growth, and inform strategy. Currently pursuing an M.S. in Applied Data Science at the University of San Diego (expected August 2026).
 
-I work at the intersection of finance, operations, and data science — building automated reporting, predictive models, and analytics pipelines that turn raw data into decisions.
+I work at the intersection of finance, operations, and data science and build automated reporting, predictive models, and analytics pipelines that turn raw data into decisions.
 
 ---
 
