@@ -27,6 +27,7 @@ LLM-powered early-warning system built on the CFPB Consumer Complaint Database, 
 
 **[GridSense AI](https://github.com/AZhuk30/AWS-GridSenseAI)**
 XGBoost model predicting ERCOT grid stress events 24 hours in advance (AUC-ROC 0.986).
+- Built with: Sagemaker, Python, S3
 
 **[Drug Review Insights Tool](https://github.com/AZhuk30/DrugReviewInsightsSummarizationTool)**
 GenAI summarization tool built over 200K+ drug reviews (UCI dataset), deployed on Streamlit.
