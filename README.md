@@ -20,7 +20,6 @@ I work at the intersection of finance, operations, and data science and build au
 An automated ETL pipeline integrating NYC vehicle collision data with hourly weather data (Open-Meteo API) to analyze weather's effect on traffic safety. Runs daily via GitHub Actions, loads into MySQL, and surfaces insights through an interactive Streamlit dashboard.
 - 🔗 Live dashboard: [carsinnyc.streamlit.app](https://carsinnyc.streamlit.app/)
 - Built with: Python, SQL, MySQL, GitHub Actions, Streamlit
-- Team: Alexander Zhuk, Gagandeep Singh, Stephanie Smith
 
 **[Complaint Intelligence](https://github.com/AZhuk30/ADS-599-Capstone-Project)** *(capstone, in progress)*
 LLM-powered early-warning system built on the CFPB Consumer Complaint Database, using RAG, Sentence-BERT, BERTopic, and Gemini to surface emerging complaint trends.
