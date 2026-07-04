@@ -14,7 +14,7 @@ I work at the intersection of finance, operations, and data science and build au
 
 ---
 
-### Featured Projects
+### Featured Group Projects
 
 **[Weather Impact on Car Accidents](https://github.com/AZhuk30/WeatherImpactonCarAccidents)** — *Real-Time Weather Impact Assessment on NYC Traffic Safety*
 An automated ETL pipeline integrating NYC vehicle collision data with hourly weather data (Open-Meteo API) to analyze weather's effect on traffic safety. Runs daily via GitHub Actions, loads into MySQL, and surfaces insights through an interactive Streamlit dashboard.
@@ -27,7 +27,7 @@ LLM-powered early-warning system built on the CFPB Consumer Complaint Database, 
 
 **[GridSense AI](https://github.com/AZhuk30/AWS-GridSenseAI)**
 XGBoost model predicting ERCOT grid stress events 24 hours in advance (AUC-ROC 0.986).
-- Built with: Sagemaker, Python, S3
+- Built with: AWS SageMaker, Python, S3
 
 **[Drug Review Insights Tool](https://github.com/AZhuk30/DrugReviewInsightsSummarizationTool)**
 GenAI summarization tool built over 200K+ drug reviews (UCI dataset), deployed on Streamlit.
