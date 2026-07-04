@@ -18,12 +18,12 @@ I work at the intersection of finance, operations, and data science and build au
 
 **[Weather Impact on Car Accidents](https://github.com/AZhuk30/WeatherImpactonCarAccidents)** — *Real-Time Weather Impact Assessment on NYC Traffic Safety*
 An automated ETL pipeline integrating NYC vehicle collision data with hourly weather data (Open-Meteo API) to analyze weather's effect on traffic safety. Runs daily via GitHub Actions, loads into MySQL, and surfaces insights through an interactive Streamlit dashboard.
-- 🔗 Live dashboard: [carsinnyc.streamlit.app](https://carsinnyc.streamlit.app/)
+- Live dashboard: [carsinnyc.streamlit.app](https://carsinnyc.streamlit.app/)
 - Built with: Python, SQL, MySQL, GitHub Actions, Streamlit
 
 **[Complaint Intelligence](https://github.com/AZhuk30/ADS-599-Capstone-Project)** *(capstone, in progress)*
 LLM-powered early-warning system built on the CFPB Consumer Complaint Database, using RAG, Sentence-BERT, BERTopic, and Gemini to surface emerging complaint trends.
-- 🔗 Live app: [complaint-intelligence.streamlit.app](https://complaint-intelligence.streamlit.app)
+- Live app: [complaint-intelligence.streamlit.app](https://complaint-intelligence.streamlit.app)
 
 **[GridSense AI](https://github.com/AZhuk30/AWS-GridSenseAI)**
 XGBoost model predicting ERCOT grid stress events 24 hours in advance (AUC-ROC 0.986).
@@ -32,7 +32,7 @@ XGBoost model predicting ERCOT grid stress events 24 hours in advance (AUC-ROC 0
 **[Drug Review Insights Tool](https://github.com/AZhuk30/DrugReviewInsightsSummarizationTool)**
 GenAI summarization tool built over 200K+ drug reviews (UCI dataset), deployed on Streamlit.
 An interactive demo of the pipeline is available as a deployed Streamlit application. The app allows users to search by drug or condition, view AI-generated patient experience summaries, explore dataset visualizations, and download the full pipeline report.
-- 🔗 Live demo: [ads509-group1-final.streamlit.app](https://ads509-group1-final.streamlit.app)
+- Live demo: [ads509-group1-final.streamlit.app](https://ads509-group1-final.streamlit.app)
 
 ---
 
